@@ -1,0 +1,36 @@
+
+/* Class = "UIButton"; normalTitle = "Напоминание"; ObjectID = "EcB-Oy-emw"; */
+"EcB-Oy-emw.normalTitle" = "Reminder";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "MG3-dS-V92"; */
+"MG3-dS-V92.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "✚"; ObjectID = "Rj0-ne-pnI"; */
+"Rj0-ne-pnI.normalTitle" = "✚";
+
+/* Class = "UIButton"; normalTitle = "План тренировок"; ObjectID = "cR8-Lc-9cI"; */
+"cR8-Lc-9cI.normalTitle" = "Training plan";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "g9S-2D-L1u"; */
+"g9S-2D-L1u.text" = "Subtitle";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nkz-b5-RpO"; */
+"nkz-b5-RpO.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Записки"; ObjectID = "pyX-LZ-rnz"; */
+"pyX-LZ-rnz.normalTitle" = "Notes";
+
+/* Class = "UIButton"; normalTitle = "Выбор языка"; ObjectID = "sh1-yD-1wS"; */
+"pyX-LZ-rnz.normalTitle" = "Language selection";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "r41-BZ-YQ8"; */
+"r41-BZ-YQ8.text" = "Title";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "r6n-sF-nMz"; */
+"r6n-sF-nMz.text" = "Subtitle";
+
+/* Class = "UIButton"; normalTitle = "Сбросить результаты"; ObjectID = "uHA-Ej-DHI"; */
+"sh1-yD-1wS.normalTitle" = "Reset Results";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tG7-ur-Aig"; */
+"tG7-ur-Aig.text" = "Label";

@@ -1,0 +1,57 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8U2-al-Hrl"; */
+"8U2-al-Hrl.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "D7d-Dg-huL"; */
+"D7d-Dg-huL.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Напоминание"; ObjectID = "EcB-Oy-emw"; */
+"EcB-Oy-emw.normalTitle" = "Hatırlatma";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "MG3-dS-V92"; */
+"MG3-dS-V92.text" = "Title";
+
+/* Class = "UINavigationItem"; title = "Add Reminder"; ObjectID = "QPe-Ut-rXG"; */
+"QPe-Ut-rXG.title" = "Hatırlatıcı ekle";
+
+/* Class = "UITextField"; placeholder = "Note title"; ObjectID = "Rle-6n-MqZ"; */
+"Rle-6n-MqZ.placeholder" = "Note title";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ynl-e8-8je"; */
+"Ynl-e8-8je.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Видео"; ObjectID = "b40-3R-nhR"; */
+"b40-3R-nhR.normalTitle" = "Video";
+
+/* Class = "UIButton"; normalTitle = "План тренировок"; ObjectID = "cR8-Lc-9cI"; */
+"cR8-Lc-9cI.normalTitle" = "Eğitim planı";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "g9S-2D-L1u"; */
+"g9S-2D-L1u.text" = "Subtitle";
+
+/* Class = "UIButton"; normalTitle = "ADD"; ObjectID = "gP8-1w-b75"; */
+"gP8-1w-b75.normalTitle" = "EKLEMEK";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nkz-b5-RpO"; */
+"nkz-b5-RpO.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Записки"; ObjectID = "pyX-LZ-rnz"; */
+"pyX-LZ-rnz.normalTitle" = "Kâğıtlar";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "qWu-gy-NOA"; */
+"qWu-gy-NOA.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Выбор языка"; ObjectID = "sh1-yD-1wS"; */
+"sh1-yD-1wS.normalTitle" = "Dil seçimi";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tG7-ur-Aig"; */
+"tG7-ur-Aig.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Сбросить результаты"; ObjectID = "uHA-Ej-DHI"; */
+"uHA-Ej-DHI.normalTitle" = "Sonuçları Sıfırla";
+
+/* Class = "UIBarButtonItem"; title = "jmckdfmvkemve"; ObjectID = "v6Q-LO-UNT"; */
+"v6Q-LO-UNT.title" = "jmckdfmvkemve";
+
+/* Class = "UIButton"; normalTitle = "Закрыть"; ObjectID = "yri-vk-MGf"; */
+"yri-vk-MGf.normalTitle" = "Yakın";
